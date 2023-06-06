@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priston Dsouza</h1>
 <h3 align="center">Passionate Data Engineer & AWS Certified Solutions Architect.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*Urc28sbnORGOW5oyohQ06g.gif">
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*Urc28sbnORGOW5oyohQ06g.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priston7&label=Profile%20views&color=0e75b6&style=flat" alt="priston7" /> </p>
