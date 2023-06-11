@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@priston117" target="blank"><img src="https://img.shields.io/twitter/follow/@priston117?logo=twitter&style=for-the-badge" alt="@priston117" /></a> </p>
 
-- 🔭 I’m currently learning **Different Machine Learning Libraries & Natural language processing (NLP)**
+- 🔭 Currently learning **Different Machine Learning Libraries & Natural language processing (NLP)**
 
-- 💬 Ask me about **Docker Linux Spark Hadoop Sql Python Excel and Tableau**
+- 💬 Ask me about **Docker, Linux, Spark, Hadoop, Sql, Python, Excel and Tableau**
 
 - 📫 How to reach me **priston.dsouza7@gmail.com**
 
