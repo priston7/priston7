@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priston Dsouza</h1>
+<h1 align="center">Priston Dsouza</h1>
 <h3 align="center">Passionate Data Engineer & AWS Certified Solutions Architect.</h3>
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*Urc28sbnORGOW5oyohQ06g.gif">
 
